@@ -1,3 +1,10 @@
+<div align="center">
+	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
+</div>
+<br>
+<br>
+<br>
+
 # Awesome Azure Integration Services [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Azure Integration Services (hereafter called AIS) is Microsoft's suite of cloud-native services for connecting applications, data, and processes across cloud and on-premises environments, in other words, **iPaaS** (Integration Platform as a Service).
