@@ -3,7 +3,6 @@
 </div>
 <br>
 <br>
-<br>
 
 # Awesome Azure Integration Services [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
