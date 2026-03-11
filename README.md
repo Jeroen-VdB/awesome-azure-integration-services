@@ -1,8 +1,6 @@
 # Awesome Azure Integration Services [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome resources for Azure Integration Services — covering Azure Service Bus, Event Grid, Event Hubs, Logic Apps, API Management, and more.
-
-Azure Integration Services is Microsoft's suite of cloud-native services for connecting applications, data, and processes across cloud and on-premises environments.
+Azure Integration Services is Microsoft's suite of cloud-native services for connecting applications, data, and processes across cloud and on-premises environments, in other words, **iPaaS** (Integration Platform as a Service).
 
 ---
 
