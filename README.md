@@ -28,6 +28,7 @@ Azure Integration Services (hereafter called AIS) is Microsoft's suite of cloud-
 <!-- SDKs, CLI tools, VS Code extensions, open-source projects, and other utilities that enhance working with Azure Integration Services. -->
 
 - [API-based messaging](https://github.com/your-azure-coach/api-based-messaging) - An API-based messaging solution, that combines the power of Azure API Management and Azure Event Grid Namespaces.
+- [APIOps](https://azure.github.io/apiops/apiops/0-labPrerequisites/apim-basic-concepts-0-2.html) - Applies the concepts of GitOps and DevOps to API deployment on Azure API Management.
 - [Azure Integration Services Quickstart](https://github.com/ronaldbosma/azure-integration-services-quickstart) - A template for quickly deploying AIS, ideal for demos, testing or getting started with AIS.
 
 ## Articles and Blog Posts
