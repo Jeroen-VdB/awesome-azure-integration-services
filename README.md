@@ -1,12 +1,18 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
+<br>
+<br>	<a href="https://awesome.re">
+		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+	</a>
+	<p>
+		<sub>Just type <a href="https://awesomeais.net"><code>awesomeais.net</code></a> to go here.</sub>
+	</p>
+	<br>
+	<p>
+		<a href="https://azure.microsoft.com/solutions/integration-services">Azure Integration Services</a> (hereafter called AIS) is Microsoft's suite of cloud-native services for connecting applications, data, and processes across cloud and on-premises environments, in other words, <strong>iPaaS</strong> (Integration Platform as a Service).
+	</p>
+	<br>
 </div>
-<br>
-<br>
-
-# Awesome Azure Integration Services [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-Azure Integration Services (hereafter called AIS) is Microsoft's suite of cloud-native services for connecting applications, data, and processes across cloud and on-premises environments, in other words, **iPaaS** (Integration Platform as a Service).
 
 ## Contents
 
@@ -34,15 +40,11 @@ Azure Integration Services (hereafter called AIS) is Microsoft's suite of cloud-
 ## Articles and Blog Posts
 
 <!-- High-quality blog posts, tutorials, and write-ups on Azure Integration Services topics. -->
-- [Azure Integration Services Blog](https://techcommunity.microsoft.com/category/azure/blog/integrationsonazureblog) - Official Logic Apps and API Management blog on Microsoft Tech Community.
 - [Integration Playbook](https://www.integration-playbook.io/docs) - Curated by Michael Stephenson to help people understand topics around architecture and implementation of Integration projects using Microsoft Technologies.
-- [Messaging on Azure Blog](https://techcommunity.microsoft.com/category/azure/blog/messagingonazureblog) - Official Messaging team (Service Bus, Event Grid, Even Hub) blo on Microsoft Tech Community.
 
 ## Videos and Courses
 
 <!-- Talks, recordings, conference sessions, and online courses. -->
-- [Logic Apps Labs](https://azure.github.io/logicapps-labs/docs/intro) - A curated list of tutorials and courses about Logic Apps. Lots of agentic workflows content.
-- [Logic Apps Live Playlist](https://www.youtube.com/watch?v=2OFVKhsLfDk&list=PLI7iePan8aH5idAo5pw4N0mXohxBGTgm8) - Logic Apps monthly community Standup, hosted by the product group, running regularly since February 2023.
 - [Generative AI by The Agent Frontier](https://www.youtube.com/playlist?list=PLmqRsTshEmekitQ-ks1d39CjXqaYkbsMr) - A YouTube playlist around Generative AI mainly focused on Logic Apps by Kent Weare.
 
 ## Books
@@ -56,8 +58,3 @@ Azure Integration Services (hereafter called AIS) is Microsoft's suite of cloud-
 <!-- Newsletters, forums, user groups, and other community resources. -->
 - [Logic Apps Aviators](https://www.linkedin.com/groups/15771047/) - An initiative centered on Azure Logic Apps and the broader AIS ecosystem to bring together integration enthusiasts to share knowledge, create learning opportunities, and build connections.
 
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the contributors have waived all copyright and related rights to this work.
