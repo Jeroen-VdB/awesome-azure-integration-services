@@ -1,12 +1,20 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
+    <br>
+    <br>	
+    <a href="https://awesome.re">
+        <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+	</a>
+	<p>
+		<sub>Just type <a href="https://awesomeais.net"><code>awesomeais.net</code></a> to go here.</sub>
+	</p>
+	<br>
+	<p>
+		<a href="https://azure.microsoft.com/solutions/integration-services">Azure Integration Services</a> (hereafter called AIS) is Microsoft's suite of cloud-native services for connecting applications, data, and processes across cloud and on-premises environments, in other words, <strong>iPaaS</strong> (Integration Platform as a Service).
+	</p>
+	<br>
+	<br>
 </div>
-<br>
-<br>
-
-# Awesome Azure Integration Services [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-Azure Integration Services (hereafter called AIS) is Microsoft's suite of cloud-native services for connecting applications, data, and processes across cloud and on-premises environments, in other words, **iPaaS** (Integration Platform as a Service).
 
 ## Contents
 
@@ -55,9 +63,3 @@ Azure Integration Services (hereafter called AIS) is Microsoft's suite of cloud-
 
 <!-- Newsletters, forums, user groups, and other community resources. -->
 - [Logic Apps Aviators](https://www.linkedin.com/groups/15771047/) - An initiative centered on Azure Logic Apps and the broader AIS ecosystem to bring together integration enthusiasts to share knowledge, create learning opportunities, and build connections.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the contributors have waived all copyright and related rights to this work.
