@@ -29,17 +29,17 @@
 
 - [Azure Integration Services application landing zone accelerator in an Azure landing zone](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/integration-services/landing-zone-accelerator) - Provides strategic guidance for deploying AIS within an Azure landing zone.
 
-## Articles and Blog Posts
-
-<!-- High-quality blog posts, tutorials, and write-ups on Azure Integration Services topics. -->
-- [Integration Playbook](https://www.integration-playbook.io/docs) - Curated by Michael Stephenson to help people understand topics around architecture and implementation of Integration projects using Microsoft Technologies.
-
 ## Tools and Utilities
 
 <!-- SDKs, CLI tools, VS Code extensions, open-source projects, and other utilities that enhance working with Azure Integration Services. -->
 
 - [API-based messaging](https://github.com/your-azure-coach/api-based-messaging) - An API-based messaging solution, that combines the power of Azure API Management and Azure Event Grid Namespaces.
 - [Azure Integration Services Quickstart](https://github.com/ronaldbosma/azure-integration-services-quickstart) - A template for quickly deploying AIS, ideal for demos, testing or getting started with AIS.
+
+## Articles and Blog Posts
+
+<!-- High-quality blog posts, tutorials, and write-ups on Azure Integration Services topics. -->
+- [Integration Playbook](https://www.integration-playbook.io/docs) - Curated by Michael Stephenson to help people understand topics around architecture and implementation of Integration projects using Microsoft Technologies.
 
 ## Videos and Courses
 
