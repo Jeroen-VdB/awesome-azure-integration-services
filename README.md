@@ -46,6 +46,7 @@
 - [Azure Integration Services Blog](https://techcommunity.microsoft.com/category/azure/blog/integrationsonazureblog) - Official Logic Apps and API Management blog on Microsoft Tech Community.
 - [Integration Playbook](https://www.integration-playbook.io/docs) - Curated by Michael Stephenson to help people understand topics around architecture and implementation of Integration projects using Microsoft Technologies.
 - [Messaging on Azure Blog](https://techcommunity.microsoft.com/category/azure/blog/messagingonazureblog) - Official Messaging team (Service Bus, Event Grid, Even Hub) blog on Microsoft Tech Community.
+- [Policy as Code with Azure APIM and OPA](https://www.styra.com/blog/policy-as-code-with-azure-api-management-apim-and-opa/) - How to integrate Open Policy Agent (OPA) as an external authorizer in APIM, hosting OPA on Azure Container Apps and calling it via a send-request policy to enforce Rego-based authorization decisions at the gateway layer.
 - [Validate API Management policies with PSRule](https://ronaldbosma.github.io/blog/2024/09/02/validate-api-management-policies-with-psrule/) - This blog post demonstrates how to use PSRule to validate your Azure API Management policies.
 
 ## Videos and Courses
