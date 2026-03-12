@@ -67,3 +67,4 @@
 
 <!-- Newsletters, forums, user groups, and other community resources. -->
 - [Logic Apps Aviators](https://www.linkedin.com/groups/15771047/) - An initiative centered on Azure Logic Apps and the broader AIS ecosystem to bring together integration enthusiasts to share knowledge, create learning opportunities, and build connections.
+- [Microsoft Integration User Group Belgium (MIUG.be)](https://miug.be/) - Belgian community focused on Microsoft Azure Integration Services (and its BizTalk roots), hosting physical and online events at least twice a year with MVPs, industry experts, and real-world use cases.
