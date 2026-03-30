@@ -39,6 +39,7 @@
 - [APIOps](https://azure.github.io/apiops/apiops/0-labPrerequisites/apim-basic-concepts-0-2.html) - Applies the concepts of GitOps and DevOps to API deployment on Azure API Management.
 - [Azure/azure-api-management-policy-toolkit](https://github.com/Azure/azure-api-management-policy-toolkit) - A set of libraries and tools for authoring policy documents for Azure API Management.
 - [Azure Integration Services Quickstart](https://github.com/ronaldbosma/azure-integration-services-quickstart) - A template for quickly deploying AIS, ideal for demos, testing or getting started with AIS.
+- [Awesome GitHub Copilot Azure Logic Apps and Power Automate Instructions](https://github.com/ronaldbosma/azure-integration-services-quickstart) - AI agent instructions to guide them in writing high-quality Azure Logic Apps and Microsoft Power Automate workflow definitions.
 
 ## Articles and Blog Posts
 
