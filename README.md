@@ -57,6 +57,7 @@
 - [Logic Apps Labs](https://azure.github.io/logicapps-labs/docs/intro) - A curated list of tutorials and courses about Logic Apps. Lots of agentic workflows content.
 - [Logic Apps Live Playlist](https://www.youtube.com/watch?v=2OFVKhsLfDk&list=PLI7iePan8aH5idAo5pw4N0mXohxBGTgm8) - Logic Apps monthly community Standup, hosted by the product group, running regularly since February 2023.
 - [Generative AI by The Agent Frontier](https://www.youtube.com/playlist?list=PLmqRsTshEmekitQ-ks1d39CjXqaYkbsMr) - A YouTube playlist around Generative AI mainly focused on Logic Apps by Kent Weare.
+- [Azure Integration Services Masterclass with Logic Apps & Service Bus](https://www.youtube.com/watch?v=SAifvErWhWM) - A video where Stephen W Thomas explains how to leverage various components within the microsoft azure ecosystem for enterprise-grade solutions.
 
 ## Books
 
